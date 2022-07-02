@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
-
 class AppTheme {
   lightTheme() {
     return ThemeData(
