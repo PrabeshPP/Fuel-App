@@ -12,3 +12,5 @@ app=FastAPI()
 async def main():
     data=await get_data()
     return data
+
+    
